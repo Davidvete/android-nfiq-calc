@@ -1,0 +1,113 @@
+ninja: Entering directory `/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/Debug/r54p3c6x/armeabi-v7a'
+[1/88] Building C object CMakeFiles/saxpy.dir/src/lib/nfiq/saxpy.c.o
+[2/88] Building C object CMakeFiles/log.dir/src/lib/nfiq/log.c.o
+[3/88] Building C object CMakeFiles/mlpcla.dir/src/lib/nfiq/mlpcla.c.o
+[4/88] Building C object CMakeFiles/xerbla.dir/src/lib/nfiq/xerbla.c.o
+[5/88] Building C object CMakeFiles/lsame.dir/src/lib/nfiq/lsame.c.o
+[6/88] Building C object CMakeFiles/free.dir/src/lib/nfiq/free.c.o
+[7/88] Building C object CMakeFiles/ssxstats.dir/src/lib/nfiq/ssxstats.c.o
+[8/88] Building C object CMakeFiles/nativelib.dir/native_lib.c.o
+/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/native_lib.c:14:12: warning: incompatible pointer types returning 'unsigned char *[len]' from a function with result type 'unsigned char *' [-Wincompatible-pointer-types]
+    return buf;
+           ^~~
+/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/native_lib.c:14:12: warning: address of stack memory associated with local variable 'buf' returned [-Wreturn-stack-address]
+    return buf;
+           ^~~
+2 warnings generated.
+[9/88] Building C object CMakeFiles/binar.dir/src/lib/nfiq/binar.c.o
+[10/88] Building C object CMakeFiles/detect.dir/src/lib/nfiq/detect.c.o
+[11/88] Building C object CMakeFiles/nfiq.dir/src/lib/nfiq/nfiq.c.o
+[12/88] Building C object CMakeFiles/init.dir/src/lib/nfiq/init.c.o
+[13/88] Building C object CMakeFiles/contour.dir/src/lib/nfiq/contour.c.o
+[14/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libsaxpy.so
+[15/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/liblog.so
+[16/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libxerbla.so
+[17/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/liblsame.so
+[18/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libfree.so
+[19/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libssxstats.so
+[20/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libinit.so
+[21/88] Building C object CMakeFiles/xytreps.dir/src/lib/nfiq/xytreps.c.o
+[22/88] Building C object CMakeFiles/sdot.dir/src/lib/nfiq/sdot.c.o
+[23/88] Building C object CMakeFiles/nfiqgbls.dir/src/lib/nfiq/nfiqgbls.c.o
+[24/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libxytreps.so
+[25/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libsdot.so
+[26/88] Building C object CMakeFiles/syserr.dir/src/lib/nfiq/syserr.c.o
+[27/88] Building C object CMakeFiles/chaincod.dir/src/lib/nfiq/chaincod.c.o
+[28/88] Building C object CMakeFiles/shape.dir/src/lib/nfiq/shape.c.o
+[29/88] Building C object CMakeFiles/sort.dir/src/lib/nfiq/sort.c.o
+[30/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libnfiqgbls.so
+[31/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libsyserr.so
+[32/88] Building C object CMakeFiles/block.dir/src/lib/nfiq/block.c.o
+[33/88] Building C object CMakeFiles/maps.dir/src/lib/nfiq/maps.c.o
+[34/88] Building C object CMakeFiles/imgutil.dir/src/lib/nfiq/imgutil.c.o
+[35/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libsort.so
+[36/88] Building C object CMakeFiles/memalloc.dir/src/lib/nfiq/memalloc.c.o
+[37/88] Building C object CMakeFiles/runmlp.dir/src/lib/nfiq/runmlp.c.o
+In file included from /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/runmlp.c:68:
+In file included from /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include/mlpcla.h:58:
+/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include/f2c.h:210:9: warning: 'min' macro redefined [-Wmacro-redefined]
+#define min(a,b) ((a) <= (b) ? (a) : (b))
+        ^
+/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include/defs.h:73:9: note: previous definition is here
+#define min(a, b)   ((a) < (b) ? (a) : (b))
+        ^
+In file included from /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/runmlp.c:68:
+In file included from /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include/mlpcla.h:58:
+/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include/f2c.h:211:9: warning: 'max' macro redefined [-Wmacro-redefined]
+#define max(a,b) ((a) >= (b) ? (a) : (b))
+        ^
+/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include/defs.h:72:9: note: previous definition is here
+#define max(a, b)   ((a) > (b) ? (a) : (b))
+        ^
+2 warnings generated.
+[38/88] Building C object CMakeFiles/snrm2.dir/src/lib/nfiq/snrm2.c.o
+[39/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libblock.so
+[40/88] Building C object CMakeFiles/fatalerr.dir/src/lib/nfiq/fatalerr.c.o
+[41/88] Building C object CMakeFiles/globals.dir/src/lib/nfiq/globals.c.o
+[42/88] Building C object CMakeFiles/loop.dir/src/lib/nfiq/loop.c.o
+[43/88] Building C object CMakeFiles/morph.dir/src/lib/nfiq/morph.c.o
+[44/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libmemalloc.so
+[45/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libsnrm2.so
+[46/88] Building C object CMakeFiles/link.dir/src/lib/nfiq/link.c.o
+[47/88] Building C object CMakeFiles/getmin.dir/src/lib/nfiq/getmin.c.o
+[48/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libfatalerr.so
+[49/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libglobals.so
+[50/88] Building C object CMakeFiles/sgemv.dir/src/lib/nfiq/sgemv.c.o
+[51/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libmorph.so
+[52/88] Building C object CMakeFiles/znorm.dir/src/lib/nfiq/znorm.c.o
+[53/88] Building C object CMakeFiles/acs.dir/src/lib/nfiq/acs.c.o
+[54/88] Building C object CMakeFiles/quality.dir/src/lib/nfiq/quality.c.o
+[55/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libchaincod.so
+[56/88] Building C object CMakeFiles/sscal.dir/src/lib/nfiq/sscal.c.o
+[57/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libsgemv.so
+[58/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libznorm.so
+[59/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libacs.so
+[60/88] Building C object CMakeFiles/line.dir/src/lib/nfiq/line.c.o
+[61/88] Building C object CMakeFiles/dft.dir/src/lib/nfiq/dft.c.o
+[62/88] Building C object CMakeFiles/matchpat.dir/src/lib/nfiq/matchpat.c.o
+[63/88] Building C object CMakeFiles/util.dir/src/lib/nfiq/util.c.o
+[64/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libsscal.so
+[65/88] Building C object CMakeFiles/ridges.dir/src/lib/nfiq/ridges.c.o
+[66/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libline.so
+[67/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libdft.so
+[68/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libmatchpat.so
+[69/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libutil.so
+[70/88] Building C object CMakeFiles/remove.dir/src/lib/nfiq/remove.c.o
+[71/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libmlpcla.so
+[72/88] Building C object CMakeFiles/minutia.dir/src/lib/nfiq/minutia.c.o
+[73/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libcontour.so
+[74/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libmaps.so
+[75/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/librunmlp.so
+[76/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libshape.so
+[77/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libimgutil.so
+[78/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libquality.so
+[79/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libbinar.so
+[80/88] Linking C static library libminutia.a
+[81/88] Linking C static library libloop.a
+[82/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libridges.so
+[83/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/liblink.so
+[84/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libremove.so
+[85/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libdetect.so
+[86/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libgetmin.so
+[87/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libnfiq.so
+[88/88] Linking C shared library /Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/Debug/r54p3c6x/obj/armeabi-v7a/libnativelib.so

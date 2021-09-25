@@ -1,0 +1,846 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "lsame-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "lsame"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "lsame",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblsame.so",
+      "runtimeFiles": []
+    },
+    "snrm2-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "snrm2"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "snrm2",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsnrm2.so",
+      "runtimeFiles": []
+    },
+    "memalloc-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "memalloc"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "memalloc",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmemalloc.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsyserr.so"
+      ]
+    },
+    "nfiq-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "nfiq"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "nfiq",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libnfiq.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libznorm.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libnfiqgbls.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libgetmin.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/librunmlp.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libssxstats.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdetect.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libbinar.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libremove.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblink.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libridges.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmatchpat.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libchaincod.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libshape.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libimgutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libquality.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmaps.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmemalloc.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsyserr.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfatalerr.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libacs.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmlpcla.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsgemv.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblsame.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libxerbla.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsscal.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsaxpy.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsdot.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsnrm2.so"
+      ]
+    },
+    "mlpcla-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "mlpcla"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "mlpcla",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmlpcla.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsgemv.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsscal.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsaxpy.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsdot.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsnrm2.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblsame.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libxerbla.so"
+      ]
+    },
+    "binar-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "binar"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "binar",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libbinar.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libimgutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so"
+      ]
+    },
+    "loop-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "loop"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "loop",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86/libloop.a"
+    },
+    "saxpy-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "saxpy"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "saxpy",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsaxpy.so",
+      "runtimeFiles": []
+    },
+    "init-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "init"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "init",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+      "runtimeFiles": []
+    },
+    "maps-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "maps"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "maps",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmaps.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so"
+      ]
+    },
+    "syserr-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "syserr"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "syserr",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsyserr.so",
+      "runtimeFiles": []
+    },
+    "chaincod-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "chaincod"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "chaincod",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libchaincod.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so"
+      ]
+    },
+    "link-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "link"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "link",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblink.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libimgutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libchaincod.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libshape.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmaps.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmatchpat.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so"
+      ]
+    },
+    "sgemv-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "sgemv"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "sgemv",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsgemv.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblsame.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libxerbla.so"
+      ]
+    },
+    "getmin-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "getmin"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "getmin",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libgetmin.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdetect.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libquality.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libbinar.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libremove.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblink.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libridges.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libimgutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmatchpat.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libchaincod.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libshape.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmaps.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so"
+      ]
+    },
+    "detect-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "detect"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "detect",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdetect.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libbinar.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libremove.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libridges.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblink.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libimgutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmaps.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmatchpat.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libchaincod.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libshape.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so"
+      ]
+    },
+    "sscal-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "sscal"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "sscal",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsscal.so",
+      "runtimeFiles": []
+    },
+    "imgutil-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "imgutil"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "imgutil",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libimgutil.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so"
+      ]
+    },
+    "contour-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "contour"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "contour",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so"
+      ]
+    },
+    "sdot-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "sdot"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "sdot",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsdot.so",
+      "runtimeFiles": []
+    },
+    "fatalerr-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "fatalerr"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "fatalerr",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfatalerr.so",
+      "runtimeFiles": []
+    },
+    "ridges-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "ridges"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "ridges",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libridges.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libimgutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmaps.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmatchpat.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libchaincod.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libshape.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so"
+      ]
+    },
+    "util-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "util"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "util",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+      "runtimeFiles": []
+    },
+    "matchpat-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "matchpat"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "matchpat",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmatchpat.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so"
+      ]
+    },
+    "xytreps-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "xytreps"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "xytreps",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libxytreps.so",
+      "runtimeFiles": []
+    },
+    "line-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "line"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "line",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so",
+      "runtimeFiles": []
+    },
+    "globals-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "globals"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "globals",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so",
+      "runtimeFiles": []
+    },
+    "minutia-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "minutia"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "minutia",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86/libminutia.a"
+    },
+    "nativelib-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "nativelib"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "nativelib",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libnativelib.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libnfiq.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libznorm.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libssxstats.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libnfiqgbls.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libgetmin.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdetect.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libbinar.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libremove.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblink.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libridges.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmatchpat.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libchaincod.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libshape.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libimgutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libquality.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmaps.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/librunmlp.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmemalloc.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsyserr.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfatalerr.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libacs.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmlpcla.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsgemv.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblsame.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libxerbla.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsscal.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsaxpy.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsdot.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsnrm2.so"
+      ]
+    },
+    "runmlp-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "runmlp"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "runmlp",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/librunmlp.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmemalloc.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfatalerr.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libacs.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmlpcla.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsyserr.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsgemv.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblsame.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libxerbla.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsscal.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsaxpy.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsdot.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsnrm2.so"
+      ]
+    },
+    "shape-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "shape"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "shape",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libshape.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so"
+      ]
+    },
+    "quality-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "quality"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "quality",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libquality.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmaps.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so"
+      ]
+    },
+    "nfiqgbls-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "nfiqgbls"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "nfiqgbls",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libnfiqgbls.so",
+      "runtimeFiles": []
+    },
+    "remove-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "remove"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "remove",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libremove.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblink.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmaps.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libinit.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmatchpat.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libchaincod.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libshape.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libimgutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libcontour.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libutil.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libglobals.so",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libline.so"
+      ]
+    },
+    "acs-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "acs"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "acs",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libacs.so",
+      "runtimeFiles": []
+    },
+    "block-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "block"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "block",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libblock.so",
+      "runtimeFiles": []
+    },
+    "xerbla-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "xerbla"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "xerbla",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libxerbla.so",
+      "runtimeFiles": []
+    },
+    "dft-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "dft"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "dft",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libdft.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so"
+      ]
+    },
+    "ssxstats-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "ssxstats"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "ssxstats",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libssxstats.so",
+      "runtimeFiles": []
+    },
+    "log-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "log"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "log",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/liblog.so",
+      "runtimeFiles": []
+    },
+    "free-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "free"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "free",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libfree.so",
+      "runtimeFiles": []
+    },
+    "sort-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "sort"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "sort",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libsort.so",
+      "runtimeFiles": []
+    },
+    "znorm-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "znorm"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "znorm",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libznorm.so",
+      "runtimeFiles": [
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libssxstats.so"
+      ]
+    },
+    "morph-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/2n5m593o/x86",
+        "morph"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "morph",
+      "output": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/build/intermediates/cxx/RelWithDebInfo/2n5m593o/obj/x86/libmorph.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
