@@ -1,0 +1,265 @@
+[
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnativelib_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/nativelib.dir/native_lib.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/native_lib.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/native_lib.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnfiq_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/nfiq.dir/src/lib/nfiq/nfiq.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/nfiq.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/nfiq.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dxerbla_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/xerbla.dir/src/lib/nfiq/xerbla.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/xerbla.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/xerbla.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsaxpy_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/saxpy.dir/src/lib/nfiq/saxpy.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/saxpy.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/saxpy.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlog_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/log.dir/src/lib/nfiq/log.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/log.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/log.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlsame_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/lsame.dir/src/lib/nfiq/lsame.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/lsame.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/lsame.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmlpcla_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/mlpcla.dir/src/lib/nfiq/mlpcla.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/mlpcla.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/mlpcla.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Ddetect_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/detect.dir/src/lib/nfiq/detect.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/detect.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/detect.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dinit_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/init.dir/src/lib/nfiq/init.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/init.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/init.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dfree_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/free.dir/src/lib/nfiq/free.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/free.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/free.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dssxstats_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/ssxstats.dir/src/lib/nfiq/ssxstats.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/ssxstats.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/ssxstats.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dcontour_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/contour.dir/src/lib/nfiq/contour.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/contour.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/contour.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dglobals_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/globals.dir/src/lib/nfiq/globals.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/globals.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/globals.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dfatalerr_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/fatalerr.dir/src/lib/nfiq/fatalerr.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/fatalerr.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/fatalerr.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsnrm2_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/snrm2.dir/src/lib/nfiq/snrm2.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/snrm2.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/snrm2.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dgetmin_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/getmin.dir/src/lib/nfiq/getmin.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/getmin.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/getmin.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmaps_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/maps.dir/src/lib/nfiq/maps.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/maps.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/maps.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbinar_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/binar.dir/src/lib/nfiq/binar.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/binar.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/binar.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dxytreps_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/xytreps.dir/src/lib/nfiq/xytreps.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/xytreps.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/xytreps.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/loop.dir/src/lib/nfiq/loop.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/loop.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/loop.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlink_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/link.dir/src/lib/nfiq/link.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/link.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/link.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dshape_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/shape.dir/src/lib/nfiq/shape.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/shape.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/shape.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnfiqgbls_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/nfiqgbls.dir/src/lib/nfiq/nfiqgbls.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/nfiqgbls.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/nfiqgbls.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsdot_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/sdot.dir/src/lib/nfiq/sdot.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/sdot.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/sdot.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dimgutil_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/imgutil.dir/src/lib/nfiq/imgutil.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/imgutil.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/imgutil.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsort_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/sort.dir/src/lib/nfiq/sort.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/sort.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/sort.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsyserr_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/syserr.dir/src/lib/nfiq/syserr.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/syserr.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/syserr.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dblock_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/block.dir/src/lib/nfiq/block.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/block.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/block.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dremove_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/remove.dir/src/lib/nfiq/remove.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/remove.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/remove.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmemalloc_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/memalloc.dir/src/lib/nfiq/memalloc.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/memalloc.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/memalloc.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dchaincod_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/chaincod.dir/src/lib/nfiq/chaincod.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/chaincod.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/chaincod.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/minutia.dir/src/lib/nfiq/minutia.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/minutia.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/minutia.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Drunmlp_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/runmlp.dir/src/lib/nfiq/runmlp.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/runmlp.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/runmlp.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dquality_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/quality.dir/src/lib/nfiq/quality.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/quality.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/quality.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmorph_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/morph.dir/src/lib/nfiq/morph.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/morph.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/morph.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dznorm_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/znorm.dir/src/lib/nfiq/znorm.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/znorm.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/znorm.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dacs_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/acs.dir/src/lib/nfiq/acs.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/acs.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/acs.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsgemv_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/sgemv.dir/src/lib/nfiq/sgemv.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/sgemv.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/sgemv.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dutil_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/util.dir/src/lib/nfiq/util.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/util.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/util.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Ddft_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/dft.dir/src/lib/nfiq/dft.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/dft.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/dft.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dridges_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/ridges.dir/src/lib/nfiq/ridges.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/ridges.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/ridges.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dline_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/line.dir/src/lib/nfiq/line.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/line.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/line.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsscal_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/sscal.dir/src/lib/nfiq/sscal.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/sscal.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/sscal.c"
+},
+
+{
+  "directory": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/.cxx/RelWithDebInfo/39215q1s/arm64-v8a",
+  "command": "/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/davidwachira/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmatchpat_EXPORTS -I/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/matchpat.dir/src/lib/nfiq/matchpat.c.o   -c /Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/matchpat.c",
+  "file": "/Users/davidwachira/Documents/David/android-nfiq-calc/app/src/main/cpp/nfiq/src/lib/nfiq/matchpat.c"
+}
+]
