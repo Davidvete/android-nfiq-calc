@@ -27,7 +27,7 @@ android {
     }
     externalNativeBuild {
         cmake {
-            path "/Users/davidwachira/Library/Android/sdk/cmake/3.10.2.4988404"
+            path "/Users/davidwachira/Library/Android/sdk/cmake/3.18.1"
             version "3.10.2"
         }
     }
