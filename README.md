@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/seamfixng/android-nfiq-calc.svg)](https://jitpack.io/#seamfixng/android-nfiq-calc)
+[![](https://jitpack.io/v/Davidvete/android-nfiq-calc.svg)](https://jitpack.io/#Davidvete/android-nfiq-calc)
 
 
 # android-nfiq-calc
@@ -19,7 +19,7 @@ NFIQUtil.calculateNFIQUsingRawBytes(rawBytes: ByteArray, imageWidth: Int, imageH
 
 This repository can be found on JitPack:
 
-https://jitpack.io/#seamfix11/android-nfiq-calc
+https://jitpack.io/#Davidvete/android-nfiq-calc
 
 Add it in your root build.gradle at the end of repositories:
 ```
@@ -34,6 +34,6 @@ allprojects {
 Add the dependency:
 ```
 dependencies {
-	        compile 'com.github.seamfix11:android-nfiq-calc:1.0.1'
+	        compile 'com.github.Davidvete:android-nfiq-calc:1.2.4'
 	}
 ```
